@@ -4,8 +4,7 @@ An interactive **Power BI Dashboard** that analyzes and visualizes cardiovascula
 
 ## 📸 Dashboard Preview
 
-<img width="1337" height="745" alt="Snapshot_Cardio_Health" src="<img width="1301" height="727" alt="image" src="https://github.com/user-attachments/assets/c45e5b3b-1cc1-4775-bcc0-2d79cf4c596f" />
-" />
+<img width="1301" height="727" alt="image" src="https://github.com/user-attachments/assets/c45e5b3b-1cc1-4775-bcc0-2d79cf4c596f" />
 
 ## 📌 Overview
 This project leverages **Power BI** to transform raw medical records into clear, actionable insights.  
